@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/akshadawalve11/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akshadawalve11/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/akshadawalve11/DSA-Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/akshadawalve11/DSA-Problems/tree/master/0344-reverse-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akshadawalve11/DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/akshadawalve11/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akshadawalve11/DSA-Problems/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/akshadawalve11/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akshadawalve11/DSA-Problems/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
