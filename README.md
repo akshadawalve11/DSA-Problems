@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/akshadawalve11/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/akshadawalve11/DSA-Problems/tree/master/0383-ransom-note) |
 ## Counting
 |  |
