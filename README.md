@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/akshadawalve11/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/akshadawalve11/DSA-Problems/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
