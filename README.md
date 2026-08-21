@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/akshadawalve11/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/akshadawalve11/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/akshadawalve11/DSA-Problems/tree/master/0383-ransom-note) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/akshadawalve11/DSA-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/akshadawalve11/DSA-Problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/akshadawalve11/DSA-Problems/tree/master/0383-ransom-note) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/akshadawalve11/DSA-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshadawalve11/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/akshadawalve11/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/akshadawalve11/DSA-Problems/tree/master/0283-move-zeroes) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/akshadawalve11/DSA-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3925-concatenate-array-with-reverse](https://github.com/akshadawalve11/DSA-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
 |  |
